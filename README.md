@@ -15,25 +15,16 @@
 This project demonstrates the use of SQL for solving real-world airport and airline business problems. The analysis focuses on passenger traffic, flight frequency, route performance, seat utilization, seasonal demand, and operational efficiency through structured SQL queries. The project contains 20 business-oriented SQL problems ranging from beginner to advanced level, supported by a presentation explaining the business objectives and analytical insights.
 
 ## Project Objectives
-The project aims to analyse airport operational data to:
- 
-.Analyse passenger movement
+The project aims to analyze airport operational data by:
 
-Study airport traffic
-
-Measure seat utilization
-
-Identify busiest routes
-
-Analyse seasonal demand
-
-Calculate yearly growth
-
-Detect underperforming routes
-
-Improve airline operational efficiency
-
-These objectives are directly reflected in the uploaded project presentation.
+- Analyzing passenger movement across different airport routes.
+- Studying airport traffic and flight frequency.
+- Measuring seat utilization to evaluate operational efficiency.
+- Identifying the busiest origin and destination routes.
+- Analyzing seasonal passenger demand and travel trends.
+- Calculating year-over-year growth in flights and passenger traffic.
+- Detecting underperforming and low-utilization routes.
+- Providing data-driven insights to improve airline operational efficiency.
 
 ## Database Description
 The project analyzes airport operational data including:
