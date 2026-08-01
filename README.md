@@ -29,123 +29,106 @@ The project aims to analyze airport operational data by:
 ## Database Description
 The project analyzes airport operational data including:
 
-Origin Airport
-Destination Airport
-Origin City
-Destination City
-Flight Date
-Passenger Count
-Available Seats
-Flight Distance
-Flight Frequency
+- Origin Airport
+- Destination Airport
+- Origin City
+- Destination City
+- Flight Date
+- Passenger Count
+- Available Seats
+- Flight Distance
+- Flight Frequency
 
 The analysis uses SQL queries to answer business questions related to airline performance and passenger trends.
 
 ## SQL Concepts Covered
+The project demonstrates the use of the following SQL concepts:
 
-✅ SELECT
-
-✅ WHERE
-
-✅ ORDER BY
-
-✅ GROUP BY
-
-✅ HAVING
-
-✅ Aggregate Functions
-
-COUNT()
-SUM()
-AVG()
-MAX()
-MIN()
-
-✅ CASE Statement
-
-✅ Date Functions
-
-✅ Joins
-
-✅ CTE (Common Table Expressions)
-
-✅ Window Functions
-
-ROW_NUMBER()
-RANK()
-DENSE_RANK()
-LAG()
-
-✅ Percentage Calculations
-
-✅ Year-over-Year Growth
-
-✅ Business Analytics Queries
-
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate Functions
+  - COUNT()
+  - SUM()
+  - AVG()
+  - MAX()
+  - MIN()
+- CASE Statement
+- Date Functions
+- Joins
+- CTE (Common Table Expressions)
+- Window Functions
+  - ROW_NUMBER()
+  - RANK()
+  - DENSE_RANK()
+  - LAG()
+- Percentage Calculations
+- Year-over-Year Growth
+- Business Analytics Queries
+  
 ## Business Problems Solved
-The project solves 20 real-world business scenarios, including:
+The project solves **20 real-world business scenarios**, including:
 
-Total passengers between airport pairs
-Average seat utilization
-Top passenger routes
-Flights by origin city
-Distance analysis
-Monthly passenger trends
-Underutilized routes
-Top airports by traffic
-Longest flight routes
-Busiest months
-Year-over-year passenger growth
-Route growth analysis
-Weighted utilization analysis
-Peak traffic months
-Passenger decline detection
-Low-utilization routes
-Long-distance route analysis
-Annual growth trends
-Distance-weighted busiest routes
+- Total passengers between airport pairs
+- Average seat utilization
+- Top passenger routes
+- Flights by origin city
+- Distance analysis
+- Monthly passenger trends
+- Underutilized routes
+- Top airports by traffic
+- Longest flight routes
+- Busiest months
+- Year-over-year passenger growth
+- Route growth analysis
+- Weighted utilization analysis
+- Peak traffic months
+- Passenger decline detection
+- Low-utilization routes
+- Long-distance route analysis
+- Annual growth trends
+- Distance-weighted busiest routes
 
-These problems are documented in the presentation from Problem Statement 1 through Problem Statement 20.
+These business problems are documented in the project presentation from **Problem Statement 1** through **Problem Statement 20**, covering both normal and challenging SQL scenarios. 
 
 ## Project Highlights
-✔ 20 Business Problems
+The project highlights include:
 
-✔ Beginner to Advanced SQL
-
-✔ Airline Business Case Study
-
-✔ Window Functions
-
-✔ Date Analysis
-
-✔ Ranking Queries
-
-✔ Growth Analysis
-
-✔ Performance Optimization
-
-✔ Real-world SQL Scenarios
-
-✔ ATS Friendly
+- 20 Business Problems
+- Beginner to Advanced SQL
+- Airline Business Case Study
+- Window Functions
+- Date Analysis
+- Ranking Queries
+- Growth Analysis
+- Performance Optimization
+- Real-world SQL Scenarios
+- ATS-Friendly Project Documentation
 
 ## Key Learnings
-Writing optimized SQL queries
-Business-oriented data analysis
-Aggregation techniques
-Window functions
-Ranking methods
-Year-over-year analysis
-Route optimization
-Airline performance analytics
-Analytical problem solving
+The project helped develop the following skills and concepts:
+
+- Writing optimized SQL queries
+- Business-oriented data analysis
+- Aggregation techniques
+- Window functions
+- Ranking methods
+- Year-over-year analysis
+- Route optimization
+- Airline performance analytics
+- Analytical problem solving
 
 ## Future Improvements
-Develop an interactive Power BI dashboard
-Build Tableau visualizations
-Add Python-based EDA
-Integrate predictive analytics
-Connect to a live SQL database
-Automate report generation
+The project can be further enhanced by implementing the following improvements:
+
+- Develop an interactive Power BI dashboard
+- Build Tableau visualizations
+- Add Python-based Exploratory Data Analysis (EDA)
+- Integrate predictive analytics
+- Connect to a live SQL database
+- Automate report generation
 
 Author
 Golu Kumar
