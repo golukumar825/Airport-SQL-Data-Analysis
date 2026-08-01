@@ -16,7 +16,7 @@ This project demonstrates the use of SQL for solving real-world airport and airl
 
 ## Project Objectives
 The project aims to analyse airport operational data to:
-
+ 
 Analyse passenger movement
 Study airport traffic
 Measure seat utilization
