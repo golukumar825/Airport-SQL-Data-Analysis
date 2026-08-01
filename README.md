@@ -18,12 +18,19 @@ This project demonstrates the use of SQL for solving real-world airport and airl
 The project aims to analyse airport operational data to:
  
 Analyse passenger movement
+
 Study airport traffic
+
 Measure seat utilization
+
 Identify busiest routes
+
 Analyse seasonal demand
+
 Calculate yearly growth
+
 Detect underperforming routes
+
 Improve airline operational efficiency
 
 These objectives are directly reflected in the uploaded project presentation.
